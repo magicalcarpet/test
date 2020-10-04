@@ -10,9 +10,11 @@ WIP
 I like to code in Python so this API will be coded in this language.
 
 # Libraries Used
-Django - Used to create the RESTful Api.
-Behave - testrunner (Cucumber like BDD tool for python).
-Invoke - A task runner (We shall use this to quickly execute common tasks).
+*Django* - Used to create the RESTful Api.
+
+*Behave* - testrunner (Cucumber like BDD tool for python).
+
+*Invoke* - A task runner (We shall use this to quickly execute common tasks).
 
 # Getting Started
 You'll need pipenv to run this project, install it if you don't already have on your machine. 
